@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi, I'm Moses Kyalo 👋
 
-<!--
-**mosesmwaka2005-ops/mosesmwaka2005-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Engineering Student  
+🌍 Kenya  
+🚀 Interested in Web Development and Software Engineering
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Software Engineering student currently building my skills through academic projects and personal development.
+
+I enjoy creating web applications, working with databases, and learning new technologies.
+
+## Skills
+
+- HTML & CSS
+- JavaScript
+- PHP
+- MySQL
+- SQL
+- Git & GitHub
+- Responsive Web Development
+
+## Projects
+
+### 🏥 Hospital Website
+A modern healthcare website designed to provide information and services through a clean web interface.
+
+🔗 Live: https://dinohealthcare.co.ke/
+
+### 🛡️ Insurance Management System
+A web-based system with user authentication, role-based dashboards, project management, quotes, notifications, and database integration.
+
+🔗 Live Demo: https://insurance-frontend-2026.onrender.com/login
+
+🔗 GitHub: https://github.com/mosesmwaka2005-ops/insurance-management-system
+
+### 🌐 Personal Portfolio
+My personal portfolio showcasing my software projects, skills and creative work.
+
+🔗 https://moseskyalo.netlify.app/
+
+## Currently Learning
+
+- TypeScript
+- Supabase
+- Modern Web Development
+- Backend Development
+
+## Connect With Me
+
+📧 Email: Mosesmwaka2005@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/moses-kyalo-b28766363/
+
+🐙 GitHub: https://github.com/mosesmwaka2005-ops
